@@ -55,9 +55,9 @@ To achieve the above objectives, the following approach can be taken:
 
 1. How can we optimize rental prices to maximize profitability while still retaining customers?
 
-**Analysis and Findings:**
+# Analysis and Findings:
 
-# Basic Questions:
+## Basic Questions:
 
 1. **What are the top 10 most rented movies and how often are they rented?**
 
@@ -91,7 +91,7 @@ The plot shows the trend in average rental duration over the four-month period c
 
 This information can be useful for the movie rental store in several ways. For instance, the store can use this information to inform inventory management decisions. Movies that tend to be rented for longer periods could be prioritized and stocked in greater quantities to meet customer demand. Additionally, it could inform pricing decisions, such as charging a premium for longer rental periods.
 
-# Main Question:
+## Main Question:
 
 ### A. How can we optimize rental prices to maximize profitability while still retaining customers?
 
