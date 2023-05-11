@@ -132,11 +132,8 @@ Finally, this analysis provides valuable insights into customer rental behavior 
 # Suggestions:
 
 1. **Conduct a thorough analysis of competitors' pricing strategy:** To ensure that the rental prices are competitive and attract customers, it is important to conduct a thorough analysis of competitors' pricing strategy. This will help in identifying the gaps in the current pricing strategy and provide insights on areas that require improvement.
-1. **Offer customer loyalty programs:** To increase customer retention, it is recommended to offer customer loyalty programs that incentivize customers to continue renting from the business. This could include discounts on future rentals or exclusive access to new movie releases.(***from Customer Behavior Analysis***)
-1. **Monitor customer feedback and preferences:** To ensure that the rental prices align with customers' preferences and expectations, it is important to monitor customer feedback and preferences. This could be done through surveys, customer reviews, or
-
-social media monitoring. This will help in identifying areas where customers may be dissatisfied with the current pricing strategy and provide opportunities for improvement.***(from Customer Renting Behavior Analysis***)
-
+2. **Offer customer loyalty programs:** To increase customer retention, it is recommended to offer customer loyalty programs that incentivize customers to continue renting from the business. This could include discounts on future rentals or exclusive access to new movie releases.(***from Customer Behavior Analysis***)
+3. **Monitor customer feedback and preferences:** To ensure that the rental prices align with customers' preferences and expectations, it is important to monitor customer feedback and preferences. This could be done through surveys, customer reviews, or social media monitoring. This will help in identifying areas where customers may be dissatisfied with the current pricing strategy and provide opportunities for improvement.***(from Customer Renting Behavior Analysis***)
 4. **Implement dynamic pricing:** To maximize profitability, it is recommended to implement dynamic pricing, which involves adjusting rental prices based on demand and supply. This could include offering lower prices during off-peak hours or raising prices during peak hours or when a movie is in high demand. Dynamic pricing can help in increasing revenue while ensuring that customers continue to rent from the business.(***from Profitability Analysis and Basic Analysis***)
 
 
