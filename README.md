@@ -61,7 +61,7 @@ To achieve the above objectives, the following approach can be taken:
 
 1. **What are the top 10 most rented movies and how often are they rented?**
 
-![](1.png)
+<img src="https://github.com/richardwarepam16/Rental_Analysis_using_Python_and_SQL/blob/master/1.png" alt="Top 10 rented movies">
 
 The plotted graph shows the top 10 most rented movies based on rental count in descending order. The graph is plotted using a barplot from the Seaborn library with the x-axis representing the rental count and the y-axis representing the film title. The color of the bars is determined by the 'viridis' color palette.
 
